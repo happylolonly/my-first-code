@@ -1,0 +1,47 @@
+* {
+  background: #E679AB;
+  font-family: Comic sans ms;
+  
+}
+
+div {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  border-radius: 5px;
+  text-align: center;
+  background-color: yellow;
+}
+
+td, th {
+  background: #D8DDDF;
+}
+
+table img {
+  margin: 4px 1px 0px 1px;
+  height: 150px;
+  width: 150px;
+}
+
+#botton {
+  border-radius: 5px;
+  height: 55px;
+  width: 120px;
+  padding: 10px;
+  background-color: #9CA0A5;
+  color: #F4A64E;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+h2 {
+  text-align:center; 
+  color: #7E23CD;
+}
+
+a {
+  color: yellow;
+}
